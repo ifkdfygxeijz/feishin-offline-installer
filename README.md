@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Feishin Free Installer** — Feishin is a free, open-source desktop music player for Windows, macOS, and Linux designed for self-hosted music servers including Navidrome and Jellyfin. Works without internet access, no account required. Full offline installation.
+**💻 Feishin Free Installer** — Feishin is a modern desktop music client for Navidrome, Jellyfin, and Subsonic-compatible servers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Feishin
 
-Feishin is a free, open-source desktop music player for Windows, macOS, and Linux designed for self-hosted music servers including Navidrome and Jellyfin. Stream your personal music collection through a modern, polished interface with full playback controls, library browsing, and scrobbling support. Feishin gives self-hosted music server users a desktop client with the quality of commercial streaming applications.
+Feishin is a modern desktop music client for Navidrome, Jellyfin, and Subsonic-compatible servers. It provides a beautiful, responsive interface for streaming your self-hosted music library with features including gapless playback, lyrics, scrobbling, and offline downloads.
 
 ---
 
 ## ❌ Problem: Feishin is hard to access
 
-- **Server Dependency** — Requires compatible self-hosted music server (Navidrome, Jellyfin)
-- **Setup Complexity** — Self-hosting a music server requires technical knowledge
-- **No Local Playback** — Streams from server; offline local file playback not the focus
-- **Development Stage** — Relatively new project with features still being added
+- **Server Required** — Requires a self-hosted Navidrome or Jellyfin server
+- **Technical Setup** — Server configuration is complex for non-technical users
+- **Self-Hosted Only** — Not compatible with commercial streaming services directly
+- **Early Development** — Some features still missing compared to mature music players
 
 ---
 
@@ -121,7 +121,7 @@ Feishin is a free, open-source desktop music player for Windows, macOS, and Linu
 
 ---
 
-**Feishin Free Installer** — Feishin is a free, open-source desktop music player for Windows, macOS, and Linux designed for self-hosted music servers including Navidrome and Jellyfin. Install without internet connection today!
+**Feishin Free Installer** — Feishin is a modern desktop music client for Navidrome, Jellyfin, and Subsonic-compatible servers. Install without internet connection today!
 
 <div align="center">
 
